@@ -10,12 +10,12 @@ Direct3D:
     VRAM:     5996 MB
     Driver:   32.0.15.6109
 Begin MonoManager ReloadAssembly
-- Completed reload, in  3.373 seconds
+- Completed reload, in  0.069 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.075600 ms
+UnloadTime: 0.742700 ms
 SDSandbox Server starting.
 
 Server Listening on: 0.0.0.0:9091
@@ -28,25 +28,25 @@ Server Listening on: 0.0.0.0:9092
 
 Waiting for a connection...
 
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 2310 -> priority: 1 
+  Thread -> id: 3fc8 -> priority: 1 
+  Thread -> id: 2560 -> priority: 1 
+  Thread -> id: 2108 -> priority: 1 
+  Thread -> id: 4cfc -> priority: 1 
+  Thread -> id: 1c5c -> priority: 1 
+  Thread -> id: 73b0 -> priority: 1 
+  Thread -> id: 22b0 -> priority: 1 
 Waiting for a connection...
 
 client connected.
 
-Setting up 8 worker threads for Enlighten.
-  Thread -> id: 4db0 -> priority: 1 
-  Thread -> id: 10d8 -> priority: 1 
-  Thread -> id: 5e28 -> priority: 1 
-  Thread -> id: 3f54 -> priority: 1 
-  Thread -> id: 41e8 -> priority: 1 
-  Thread -> id: 3f1c -> priority: 1 
-  Thread -> id: 28c0 -> priority: 1 
-  Thread -> id: 64a8 -> priority: 1 
 generated_track
 
 loaded scene
 
 Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.893400 ms
+UnloadTime: 5.917000 ms
 JustOne removing instance.MainThDisp
 
 JustOne removing instance.SandboxServer
@@ -63,12 +63,12 @@ Got car config message
 
 
 Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 5392.
-Total: 2.713600 ms (FindLiveObjects: 0.270700 ms CreateObjectMapping: 0.112300 ms MarkObjects: 1.460900 ms  DeleteObjects: 0.869500 ms)
+Total: 1.997600 ms (FindLiveObjects: 0.258000 ms CreateObjectMapping: 0.061400 ms MarkObjects: 1.204200 ms  DeleteObjects: 0.473900 ms)
 
 Setting car config.
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.227100 ms
+UnloadTime: 2.111400 ms
 JustOne removing instance.MainThDisp
 
 JustOne removing instance.SandboxServer
@@ -77,55 +77,21 @@ JustOne removing instance.SandboxPrivateAPIServer
 
 
 Unloading 1148 unused Assets to reduce memory usage. Loaded Objects now: 1132.
-Total: 1.647300 ms (FindLiveObjects: 0.133000 ms CreateObjectMapping: 0.073200 ms MarkObjects: 0.747500 ms  DeleteObjects: 0.693500 ms)
+Total: 1.272700 ms (FindLiveObjects: 0.102200 ms CreateObjectMapping: 0.043100 ms MarkObjects: 0.601900 ms  DeleteObjects: 0.525400 ms)
 
-generated_track
+No delegates for msg type: control
 
-loaded scene
-
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.891300 ms
-JustOne removing instance.MainThDisp
-
-JustOne removing instance.SandboxServer
-
-loading: racePi2
-
-JustOne removing instance.SandboxPrivateAPIServer
-
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2520.
-Total: 1.011400 ms (FindLiveObjects: 0.091700 ms CreateObjectMapping: 0.048500 ms MarkObjects: 0.839300 ms  DeleteObjects: 0.031800 ms)
-
-Added timer
-
-car loaded.
-
-Got car config message
-
-Setting car config.
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.933700 ms
-JustOne removing instance.MainThDisp
-
-JustOne removing instance.SandboxServer
-
-JustOne removing instance.SandboxPrivateAPIServer
-
-
-Unloading 1147 unused Assets to reduce memory usage. Loaded Objects now: 1132.
-Total: 1.603400 ms (FindLiveObjects: 0.148700 ms CreateObjectMapping: 0.063100 ms MarkObjects: 0.761700 ms  DeleteObjects: 0.629500 ms)
-
-mini_monaco
+warehouse
 
 loaded scene
 
-Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.615800 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.697100 ms
 JustOne removing instance.MainThDisp
 
 JustOne removing instance.SandboxServer
+
+found 176 path points. to load
 
 JustOne removing instance.SandboxPrivateAPIServer
 
@@ -136,44 +102,8 @@ car loaded.
 Got car config message
 
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 6489.
-Total: 2.033300 ms (FindLiveObjects: 0.372000 ms CreateObjectMapping: 0.063100 ms MarkObjects: 1.532400 ms  DeleteObjects: 0.065700 ms)
-
-Setting car config.
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.364700 ms
-JustOne removing instance.MainThDisp
-
-JustOne removing instance.SandboxServer
-
-JustOne removing instance.SandboxPrivateAPIServer
-
-
-Unloading 1166 unused Assets to reduce memory usage. Loaded Objects now: 1132.
-Total: 2.072800 ms (FindLiveObjects: 0.099600 ms CreateObjectMapping: 0.053900 ms MarkObjects: 0.718600 ms  DeleteObjects: 1.200400 ms)
-
-roboracingleague_1
-
-loaded scene
-
-Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.880900 ms
-JustOne removing instance.MainThDisp
-
-JustOne removing instance.SandboxServer
-
-JustOne removing instance.SandboxPrivateAPIServer
-
-Added timer
-
-car loaded.
-
-Got car config message
-
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3566.
-Total: 1.396700 ms (FindLiveObjects: 0.161500 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.137400 ms  DeleteObjects: 0.046300 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 5207.
+Total: 2.292200 ms (FindLiveObjects: 0.295600 ms CreateObjectMapping: 0.116700 ms MarkObjects: 1.797400 ms  DeleteObjects: 0.082300 ms)
 
 Setting car config.
 
