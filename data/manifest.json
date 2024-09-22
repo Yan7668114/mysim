@@ -1,5 +1,5 @@
 ["cam/image_array", "user/angle", "user/throttle", "user/mode"]
 ["image_array", "float", "float", "str"]
 {}
-{"created_at": 1726973161.575347, "sessions": {"all_full_ids": ["24-09-22_0"], "last_id": 0, "last_full_id": "24-09-22_0"}}
-{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog", "catalog_7.catalog", "catalog_8.catalog", "catalog_9.catalog", "catalog_10.catalog"], "current_index": 10137, "max_len": 1000, "deleted_indexes": []}
+{"created_at": 1726973161.575347, "sessions": {"all_full_ids": ["24-09-22_0", "24-09-22_1"], "last_id": 1, "last_full_id": "24-09-22_1"}}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog", "catalog_7.catalog", "catalog_8.catalog", "catalog_9.catalog", "catalog_10.catalog", "catalog_11.catalog", "catalog_12.catalog", "catalog_13.catalog", "catalog_14.catalog", "catalog_15.catalog", "catalog_16.catalog", "catalog_17.catalog", "catalog_18.catalog", "catalog_19.catalog", "catalog_20.catalog"], "current_index": 20092, "max_len": 1000, "deleted_indexes": []}
